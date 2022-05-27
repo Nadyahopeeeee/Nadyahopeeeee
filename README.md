@@ -27,6 +27,7 @@
 * Location: Saint-Petersburg, Russia
 * Telegram: @Nadyahopeeeee
 * Discord: Nadya Hope (@Nadyahopeeeee)
+* Instagram: Nadya Hope (@Nadyahopeeeee)
 
 ### About me:
 Junior Frontend Developer in progress.
