@@ -10,10 +10,7 @@
   <!--Счетчик просмотра профиля-->
   <img src="https://komarev.com/ghpvc/?username=Nadyahopeeeee&style=flat-square&color=blue" alt=""/>
   <!--Текст и эмодзи-->
-  <h1>
-    Hellow world
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  </h1>
+  <h1>Hellow world!</h1>
 </div>
 
 <!--
@@ -23,20 +20,20 @@
 </div>
 -->
 
-### Contacts:
+### 📫Contacts:
 * Location: Saint-Petersburg, Russia
 * Telegram: @Nadyahopeeeee
 * Discord: Nadya Hope (@Nadyahopeeeee)
 * Instagram: Nadya Hope (@Nadyahopeeeee)
 
-### About me:
+### 😄About me:
 Junior Frontend Developer in progress.
 _I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer._:fire:
 
-### My stats:
+### ⚡My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nadyahopeeeee&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### Languages and tools:
+### 🔭Languages and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
