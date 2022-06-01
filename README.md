@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <!--Стартовая гифка-->
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
   <!--Мои социальные сети (добавить ссылки)-->
   <div id="badges">
   <a href="#">
@@ -12,7 +12,7 @@
   <!--Текст и эмодзи-->
   <h1>
     Hellow world
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   </h1>
 </div>
 
