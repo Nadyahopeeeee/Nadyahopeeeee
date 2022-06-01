@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <!--Стартовая гифка-->
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
   <!--Мои социальные сети (добавить ссылки)-->
   <div id="badges">
   <a href="#">
