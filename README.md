@@ -3,14 +3,10 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
   <!--Мои социальные сети (добавить ссылки)-->
   <div id="badges">
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   </div>
   <!--Счетчик просмотра профиля-->
   <img src="https://komarev.com/ghpvc/?username=Nadyahopeeeee&style=flat-square&color=blue" alt=""/>
-  <!--Текст и эмодзи-->
-  <h1>Hellow world!</h1>
+  <!--Текст и эмодзи   <h1>Hellow world!</h1>-->
 </div>
 
 <!--
