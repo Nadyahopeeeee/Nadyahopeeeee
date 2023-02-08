@@ -22,10 +22,6 @@
 * Discord: Nadya Hope (@Nadyahopeeeee)
 * Instagram: Nadya Hope (@Nadyahopeeeee)
 
-### 😄About me:
-Junior Frontend Developer in progress.
-_I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer._:fire:
-
 <!--
 ### ⚡My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nadyahopeeeee&theme=dark&background=000000)](https://git.io/streak-stats)
