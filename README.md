@@ -21,6 +21,7 @@
 * Telegram: @Nadyahopeeeee
 * Discord: Nadya Hope (@Nadyahopeeeee)
 * Instagram: Nadya Hope (@Nadyahopeeeee)
+* Linkedin: Nadezhda Semenenko (@Nadyahopeeeee)
 
 <!--
 ### ⚡My stats:
