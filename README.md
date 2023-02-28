@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
+ </div>
   <!--Счетчик просмотра профиля-->
   <!--<img src="https://komarev.com/ghpvc/?username=Nadyahopeeeee&style=flat-square&color=blue" alt=""/>-->
   <!--Текст и эмодзи   <h1>Hellow world!</h1>-->
@@ -10,18 +11,13 @@
 </div>
 -->
 
-### ⚡Stack: 
-* React, Redux
-* JavaScript, TipeScript
-* HTML, CSS/ SCSS
-* Figma, Adobe Photoshop
+### ⚡Stack: React/ Redux, JS/ TS, HTML, CSS/ SCSS, Figma, Adobe Photoshop
 
 ### 📫Contacts:
 * Linkedin: www.linkedin.com/in/nadezhda-semenenko
 * Telegram: @Nadyahopeeeee
 * Discord: @Nadyahopeeeee
 * Instagram: @Nadyahopeeeee
-</div>
 <!--
 ### ⚡My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nadyahopeeeee&theme=dark&background=000000)](https://git.io/streak-stats)
