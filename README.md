@@ -16,18 +16,26 @@
 </div>
 -->
 
+## ⚡Stack:
+* React, Redux
+* JavaScript, TipeScript
+* HTML, CSS/ SCSS
+* Figma, Adobe Photoshop
+
+
 ### 📫Contacts:
-* Location: Saint-Petersburg, Russia
+* Linkedin: www.linkedin.com/in/nadezhda-semenenko
 * Telegram: @Nadyahopeeeee
-* Discord: Nadya Hope (@Nadyahopeeeee)
-* Instagram: Nadya Hope (@Nadyahopeeeee)
-* Linkedin: Nadezhda Semenenko (@Nadyahopeeeee)
+* Discord: @Nadyahopeeeee
+* Instagram: @Nadyahopeeeee
+
 
 <!--
 ### ⚡My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nadyahopeeeee&theme=dark&background=000000)](https://git.io/streak-stats)
 -->
 
+<!--
 ### 🔭Languages and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -35,6 +43,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+-->
+
 <!--
 **Nadyahopeeeee/Nadyahopeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
