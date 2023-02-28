@@ -1,6 +1,6 @@
-<div id="header" align="center">
+  <!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
- </div>
+ </div>-->
   <!--Счетчик просмотра профиля-->
   <!--<img src="https://komarev.com/ghpvc/?username=Nadyahopeeeee&style=flat-square&color=blue" alt=""/>-->
   <!--Текст и эмодзи   <h1>Hellow world!</h1>-->
@@ -10,6 +10,7 @@
   <img src="#" width="1000" height="100"/>
 </div>
 -->
+# Frontend developer
 
 ### ⚡Stack: React/ Redux, JS/ TS, HTML, CSS/ SCSS, Figma
 
