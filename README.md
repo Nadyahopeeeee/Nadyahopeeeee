@@ -5,7 +5,7 @@
   <div id="badges">
   </div>
   <!--Счетчик просмотра профиля-->
-  <img src="https://komarev.com/ghpvc/?username=Nadyahopeeeee&style=flat-square&color=blue" alt=""/>
+  <!--<img src="https://komarev.com/ghpvc/?username=Nadyahopeeeee&style=flat-square&color=blue" alt=""/>-->
   <!--Текст и эмодзи   <h1>Hellow world!</h1>-->
 </div>
 
