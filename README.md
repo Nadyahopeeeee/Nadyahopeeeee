@@ -19,7 +19,7 @@
 * Telegram: @Nadyahopeeeee
 * Discord: @Nadyahopeeeee
 * Instagram: @Nadyahopeeeee
-https://www.codewars.com/users/rsschool_5335efd7fc81e492/badges/small
+<img alt="Codewars" src="https://www.codewars.com/users/rsschool_5335efd7fc81e492/badges/small"/>
 
 
 <!--
