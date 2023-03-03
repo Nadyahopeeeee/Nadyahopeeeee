@@ -19,6 +19,9 @@
 * Telegram: @Nadyahopeeeee
 * Discord: @Nadyahopeeeee
 * Instagram: @Nadyahopeeeee
+https://www.codewars.com/users/rsschool_5335efd7fc81e492/badges/small
+
+
 <!--
 ### ⚡My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nadyahopeeeee&theme=dark&background=000000)](https://git.io/streak-stats)
