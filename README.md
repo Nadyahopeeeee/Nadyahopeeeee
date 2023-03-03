@@ -19,7 +19,9 @@
 * Telegram: @Nadyahopeeeee
 * Discord: @Nadyahopeeeee
 * Instagram: @Nadyahopeeeee
-<img alt="Codewars" src="https://www.codewars.com/users/Nadyahopeeeee/badges/small"/>
+
+### 🔭 Achievements:
+* Codewars: <img alt="Codewars" src="https://www.codewars.com/users/Nadyahopeeeee/badges/small"/>
 
 
 <!--
