@@ -20,7 +20,7 @@
 * Discord: @Nadyahopeeeee
 * Instagram: @Nadyahopeeeee
 
-### 🔭 Achievements:
+### 🔭Achievements:
 * Codewars: <img alt="Codewars" src="https://www.codewars.com/users/Nadyahopeeeee/badges/small"/>
 
 
