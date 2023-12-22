@@ -14,13 +14,13 @@
 
 ### ⚡ Main stack: JavaScript, Typecript, React, Redux, HTML, CSS, SCSS, Webpack, Figma
 
-### 📫Contacts:
+### 📫 Contacts:
 * Linkedin: www.linkedin.com/in/nadezhda-semenenko
 * Telegram: @Nadyahopeeeee
 * Discord: @Nadyahopeeeee
 * Instagram: @Nadyahopeeeee
 
-### 🔭Achievements:
+### 🔭 Achievements:
 * Codewars: <img alt="Codewars" src="https://www.codewars.com/users/Nadyahopeeeee/badges/small"/>
 
 
