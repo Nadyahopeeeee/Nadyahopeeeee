@@ -12,7 +12,7 @@
 -->
 # Frontend developer
 
-### ⚡Stack: React, Redux, JS, TS, HTML, CSS, SCSS, Figma
+### ⚡ Main stack: JavaScript, Typecript, React, Redux, HTML, CSS, SCSS, Webpack, Figma
 
 ### 📫Contacts:
 * Linkedin: www.linkedin.com/in/nadezhda-semenenko
